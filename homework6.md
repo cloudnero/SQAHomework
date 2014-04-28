@@ -8,6 +8,7 @@ Inspection vs. preventive actions
     Key difference: error vs fault focus
 
 Inspection vs. formal verification
+
         FV ~= formalized inspection
         Focus: people vs. mathematical/logical
         Applicability to design/code only
@@ -16,6 +17,7 @@ Inspection vs. formal verification
         Training and acceptability issues
         
 Inspection vs. testing
+
         Existence of the implemented product
         Levels of quality/defects
         Static vs. dynamic defects
@@ -25,6 +27,7 @@ Inspection vs. testing
             inspection of testing entities/processes
             
 Inspection vs. fault tolerance
+
         Complementary instead of competing
         (e.g., inspect individual versions)
         Static vs. dynamic
