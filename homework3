@@ -1,0 +1,22 @@
+Group D Generic methods & participants for constructing OPs
+methods:
+  Obtaining OP information:
+  identify distinct operations as disjoint alternatives. 
+  assign associated probabilities:occurrences/weights => probabilities. 
+  in two steps or via an iterative procedure
+  
+  OP information sources:
+  actual measurement. 
+  customer surveys. 
+  expert opinion.
+
+
+participants:
+  Software Product 
+  Manager 
+  Test Engineers
+  Systems Engineers 
+  Customers
+  Chruscielski: pulling it together 
+  Tian: technical advising 
+  Chruscielski/Tian: documentation
