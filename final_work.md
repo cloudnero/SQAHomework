@@ -31,6 +31,7 @@ that link together different unit/components to verify that they work fine toget
 would be considered as a global integrated test which verify the totality of the assembled system.
 
 Software review
+
 Software engineers will review formally by using reliable technical methods and measures with the 
 implementation of well-planned to consider the quality of software testing. Then complete software 
 assurance and quality control activities. 
